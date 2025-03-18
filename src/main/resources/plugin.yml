@@ -1,0 +1,4 @@
+name: NocolDetect
+version: '1.0-SNAPSHOT'
+main: me._2818.nocolDetect.NocolDetect
+api-version: '1.19'
